@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+blob2json.wasm
+opt.wasm
